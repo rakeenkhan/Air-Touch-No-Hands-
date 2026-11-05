@@ -1,4 +1,8 @@
-# AirTouch — Revised hand gestures (Revision 2)
+# AirTouch — Revised hand gestures 
+
+Hello There i built this app as a personal side project 
+Below is the information about the app , the enviroment setup 
+---------------------------------------------------------------------
 
 AirTouch uses the front camera and MediaPipe to recognise finger poses. You start the camera service by pressing **START**. Every start enters **Practice mode**, which blocks all actions until **Enable live controls** is tapped.
 
@@ -40,4 +44,4 @@ AirTouch uses the front camera and MediaPipe to recognise finger poses. You star
 - `MainActivity.kt` — updated instructions and progress
 - `app/src/test/java/com/airtouch/GestureScenarios.kt` — updated Kotlin simulations
 
-Local pure-Kotlin simulations passed. The complete Android app has **not** been built or tested on the physical phone in this environment.
+Local pure-Kotlin simulations passed. The complete Android app is still **undergoing** tests , since there might be a **few issues / bugs** with Google's AI Recognition Model
